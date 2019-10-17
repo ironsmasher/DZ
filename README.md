@@ -5,5 +5,5 @@ This is a git repo, created for educational purposes. BMSTU, 2 course.
 
 1 задание.
 	ОС: Windows 10
-	Компилятор: visual studio 
+	Компилятор: gcc 
 	Текстовый редактор: visual studio
