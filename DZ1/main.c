@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //input binary numbers
-void inputBinary(int*& a, int& n)
+void inputBinary(int* a, int n)
 {
     printf("Input number of binary numbers: ");
     scanf("%d", &n);
